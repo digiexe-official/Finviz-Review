@@ -6,6 +6,29 @@ I’ve spent some serious time with Finviz, and in this review, I’m going to s
 
 <img width="870" alt="image" src="https://github.com/user-attachments/assets/526dd2ea-683c-4b78-92c7-c53bea40f598" />
 
+## My Experience with Finviz
+
+After nearly two years with Finviz, I’m giving it a solid 4.4 out of 5.0. Here’s why it’s earned that score, broken down by key aspects:
+
+### Pricing: ★★★★★
+The free tier is a powerhouse for beginners, and Elite’s $299.50/year feels like a bargain next to TradingView’s $600 Pro+. Every penny counts, and Finviz delivers value.
+
+### Software: ★★★★☆
+The platform runs smoothly, with a clean interface that rarely glitches. It’s not flawless—occasional ad clutter on the free plan can annoy—but it’s reliable overall.
+
+### Scanning: ★★★★☆
+The stock screener is fast and flexible, helping me spot gems like a $10 stock with 20% EPS growth in seconds. It’s not perfect for crypto or forex, though.
+
+### Charts & Analysis: ★★★★☆
+Heatmaps and basic charts are great for quick scans, but Elite’s advanced tools lack the depth of Stock Rover. Still, they’ve guided my trades well.
+
+### Usability: ★★★★★
+From day one, Finviz felt intuitive. Whether filtering stocks or browsing heatmaps, it’s a breeze to use—no steep learning curve here.
+
+## My Verdict
+
+Having used Finviz for almost two years, I can vouch for its prowess in market analysis. I started on the free version, digging into biotech stocks, and later upgraded to Elite for real-time data and backtesting. That shift paid off—catching a 10% dip last quarter proved its worth. It’s not perfect for every trader, but for me, it’s a standout tool that balances power and simplicity.
+
 ## What’s Finviz, Anyway?
 
 So, Finviz—short for Financial Visualizations— is this awesome stock screening and analysis platform that’s been a go-to for traders and investors like me. It’s all about making sense of the stock market chaos with tools that are powerful yet simple enough for anyone to use. Whether you’re into quick day trades, swing trading, or building a long-term portfolio, Finviz has something for you.
@@ -46,7 +69,7 @@ Finviz’s charting tools let you plot price trends and candlesticks and layer o
 
 **Pro Tip:** I flip between time frames depending on my mood—short-term for trades, long-term for investments. It’s super versatile.
 
-**My Take:** Okay, it’s not as fancy as TradingView’s charts, but for quick-and-dirty analysis? it's fine. It’s spot-on. Clean, simple, and does the job.
+**My Take:** Okay, it’s not as fancy as TradingView’s charts, but for quick-and-dirty analysis? It's fine. It’s spot-on. Clean, simple, and does the job.
 
 ### 4. News & Alerts: Never Miss a Beat
 
@@ -96,6 +119,10 @@ There’s no shortage of stock tools out there, so let’s see how Finviz stacks
 
 **My Verdict:** Finviz wins on affordability and ease of use—perfect for newbies or budget-conscious traders. Cheddar Flow and TradingView step it up with advanced features, but you’ll pay more for the privilege.
 
+## Is Finviz Elite a Good Investment?
+
+Is Finviz Elite worth $39.50/month or $299.50/year in 2025? After a year, I upgraded to the free plan and caught a 10% stock dip with real-time data—unbeatable at $300 annually versus TradingView’s $600 Pro+. For active traders, it’s a steal; the speed pays off fast. But casual investors might stick to the free tier—Elite’s backtesting and charts don’t top Stock Rover. If you trade often, it’s a solid yes. Not sure? Test it with the 30-day refund.
+
 ## Is Finviz Worth It?
 
 Alright, let’s cut to the chase—should you jump on Finviz this year?
@@ -108,7 +135,7 @@ Alright, let’s cut to the chase—should you jump on Finviz this year?
 - Super intuitive—I was up and running in minutes.
 - Real-time data and alerts keep you in the game.
 
-## What’s Meh:
+## What’s Bad About Finviz:
 
 - Free plan’s a tease—limited features mean you’ll want the Elite.
 - Charting’s solid but not the deepest (TradingView fans might scoff).
